@@ -1,0 +1,27 @@
+勤怠管理システム on android
+
+[アプリの説明]
+（attendance_management_for_android.txtを参照、
+スライドを作成して、わかりやすく整理する予定）
+
+[ファイルの説明]
++プログラム
+開発をする場合、本ディレクトリをeclipse(android developper tools:ADT)にて
+インポートする。
+
+（ADTのダウンロードサイト：http://developer.android.com/sdk/index.html）
+
++UML(クラス図、シーケンス図）
+プログラム内に同梱予定。
+それぞれ、(パッケージ名)ClassDiagramまたはSeaquenceDiagramというファイルを作成している
+※開くには、eclipseにAmaterasUMLプラグインをインストールする必要がある
+
+（AmaterasUMLのインストール参考：http://www.atmarkit.co.jp/ait/articles/0612/28/news049.html　　jarファイルをDLしてeclipseのpluginsディレクトリ内にコピーすれば良い）
+
+
++ガントチャート（工程表）
+ganttproject（ガントチャート作成用ソフトウェア）をインストールした上で
+Gant_AttendanceManagement.ganを開く
+
+（ganttprojectのリンク:https://code.google.com/p/ganttproject/downloads/list?can=2&q=label:Brno%20label:OpSys-Linux%20label:release)
+
